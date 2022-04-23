@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
-![97667907](https://user-images.githubusercontent.com/97667907/164844079-3a10634f-b4c2-41c3-a8cb-61a34d730742.jpg)
+
+![97667907](https://user-images.githubusercontent.com/97667907/164844377-be28b727-292c-44ef-8eac-1c96ba0057ac.jpg)
+
 <h3 align="center">A passionate Student from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh-nani-it&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh-nani-it" /> </p>
@@ -21,6 +23,7 @@
 - 📨 How to reach me **mukeshnani2001@gmail.com**
 
 - 🔍 Resume: [https://resume.io/r/oOh9wt35H](https://resume.io/r/oOh9wt35H)
+
 
 - ⚡ Fun fact **Coding can “power up” your brain**
 
