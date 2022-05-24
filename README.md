@@ -1,4 +1,4 @@
-![MASTERHEAD](https://tenor.com/view/kaito-typing-gaming-gif-9051184)
+[![MASTERHEAD](https://tenor.com/view/kaito-typing-gaming-gif-9051184)
 
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
 
