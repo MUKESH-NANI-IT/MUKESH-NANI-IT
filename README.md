@@ -24,7 +24,7 @@
 
 - 📨 How to reach me **mukeshnani2001@gmail.com**
 
-- 🔍 Resume: [https://resume.io/r/oOh9wt35H](https://resume.io/r/oOh9wt35H)
+- 🔍 Resume: https://drive.google.com/file/d/1lQW8zP_-pdgLoV5YiV3kvM9JcgRXinEa/view?usp=sharing
 
 
 - ⚡ Fun fact **Coding can “power up” your brain**
