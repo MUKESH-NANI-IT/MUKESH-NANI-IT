@@ -41,5 +41,5 @@
 
 --- 
 <h3 align="left">Github Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mukesh-nani-it&show_icons=true&locale=en" width="400" alt="mukesh-nani-it" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-nani-it&" width="400" alt="mukesh-nani-it" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=mukesh-nani-it&show_icons=true&locale=en" width="400" alt="mukesh-nani-it" /><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mukesh-nani-it&" width="400" alt="mukesh-nani-it" /></p>
+
