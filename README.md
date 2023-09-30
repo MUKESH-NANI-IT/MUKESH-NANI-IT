@@ -3,13 +3,13 @@
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
 
 <h3 align="center">A passionate Student from India</h3>
-<a href="https://app.daily.dev/DailyDevTips"><img align ="right" src="https://github.com/MUKESH-NANI-IT/MUKESH-NANI-IT/blob/master/devcard.svg" width="250" alt="Mukesh's Dev Card"/></a>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukesh-nani-it&label=Profile%20views&color=0e75b6&style=flat" alt="mukesh-nani-it" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Notes app](https://github.com/MukeshNanIT/Projects/tree/master/NotesApp)
+- 🔭 I’m currently working on [Notes app]
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
@@ -17,13 +17,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MukeshNanIT/Projects](https://github.com/MukeshNanIT/Projects)
 
-- 📝 I regularly write articles on [https://sbds.netlify.app/blog/](https://sbds.netlify.app/blog/)
-
-- 💬 Ask me about **Java, Python,JavaScript,C**
+- 💬 Ask me about **Java, Python, JavaScript,C**
 
 - 📨 How to reach me **mukeshnani2001@gmail.com**
 
-- 🔍 Resume: https://drive.google.com/file/d/1lQW8zP_-pdgLoV5YiV3kvM9JcgRXinEa/view?usp=sharing
+- 🔍 Resume: [Uxmukesh](https://uxmukesh.me)
 
 - ⚡ Fun fact **Coding can “power up” your brain**
  ---
