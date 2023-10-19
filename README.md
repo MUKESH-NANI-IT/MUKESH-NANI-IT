@@ -9,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Notes app]
 
 - 🌱 I’m currently learning **Data structures and Algorithms**
 
@@ -19,7 +18,7 @@
 
 - 💬 Ask me about **Java, Python, JavaScript,C**
 
-- 📨 How to reach me **mukeshnani2001@gmail.com**
+- 📨 How to reach me **tirunagarimukesh.dev@gmail.com**
 
 - 🔍 Resume: [Uxmukesh](https://uxmukesh.me)
 
